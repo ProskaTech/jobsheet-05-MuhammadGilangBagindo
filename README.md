@@ -7,3 +7,4 @@
 4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
 
 ## Penjelasan Source Code
+Pada Materi Pertemuan Kali ini kita mengaplikasikan kelas scanner supaya bisa untuk mendapatkan input menggunakan pemograman java Pengaplikasian kelas bufferedreader untuk mendapatkan input Pengaplikasian kelas JOptionPane untuk mendapatkan input melalui GUI (Grapichal User Interface)
